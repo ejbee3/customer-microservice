@@ -1,2 +1,2 @@
 # customer-microservice
-- hey Bimala you can delete that sqlTools file if you want its just logs
+- I don't know if I'm bad at coding or just bad at back end. Only time will tell ...
